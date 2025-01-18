@@ -1,0 +1,40 @@
+﻿ID,Participant identification code assigned by Qualtrics Panels
+COUNTRY,Country information supplied by Qualtrics
+GOODCOMPLETE,1 indicates retained responses.
+CONSENT,"1,2,3,4,5,6 indicated full consent."
+GENDER,"1 = female, 2 = male, 3 = other"
+AGE,Age in years
+ETHNICITY,"Ethnicity, open-response"
+ABROAD,"""Have you ever lived in another country?"" 1 = Yes, 2 = No"
+ABROAD_YEAR,"""In total, how many years have you lived in other countries?"""
+MARITAL,"Relationship/marital status 1 = Single, 2 = Committed relationship, 3 = Married, 4 = Separated, 5 = Divorced, 6 = Widowed, 7 = Other"
+MARITAL_TEXT,"""Other (Please specify)"""
+EMPLOYMENT,"1 = Employed full-time, 2 = Employed part-time, 3 = Retired, 4 = Unemployed, actively looking for work, 5 = Unemployed, not looking for work, 7 = Other"
+EMPLOYMENT_TEXT,"""Other (Please specify)"""
+INCOME,"1 = Lowest group, 10 = Highest group"
+LE1-29,"Traumatic Life Events Index, 1 = Yes, 2 = No"
+ATTENTION1,Attention check; 21 = Pass
+ATTENTION2,Attention check repeat; 21 = Pass
+DASS1-21,"0 = Does not apply to me at all; 1 = Applies to me to some degree, or some of the time; 2 = Applies to me a considerable degree, or a good part of time; 3 = Applies to me very much, or most of the time"
+EX1-5,"1 = Never, 2 = Occasionally, 3 = Often, 4 = Very Often, 5 = Always"
+RELG_UP,"""How religious was your upbringing?""; 0 = Not at all religious, 8 = Very religious"
+AFF_UP,"""What best describes the religious tradition/s that your were raised in? ""; 1 = Roman Catholic, 2 = Orthodox, 3 = Anglican, 4 = Protestant, 5 = Other Christian, 6 = Mahayana, 7 = Theravada, 8 = Other Buddhist, 9 = Vaishavite, 10 = Shaivite, 11 = Other Hindu, 12 = Sunni, 13 = Shiite, 14 = Other Muslim, 15 = Conservative Jewish, 16 = Reform Jewish, 17 = Orthodox Jewish, 18 = Other Jewish, 19 = Sikh, 20 = Bahai, 21 = Jain, 22 = Taoist, 23 = Confucian, 24 = Shinto, 25 = None, 26 = Atheist, 27 = Agnostic, 28 = Other"
+RELG_NOW,"""Do you consider yourself a religious person?""; 0 = Not at all, 8 = Very much so"
+SPIRIT_NOW,"""Do you consider yourself a spiritual person?""; 0 = Not at all, 8 = Very much so"
+AFF_NOW,"""What best describes your religious affiliation/s now?""; 1 = Roman Catholic, 2 = Orthodox, 3 = Anglican, 4 = Protestant, 5 = Other Christian, 6 = Mahayana, 7 = Theravada, 8 = Other Buddhist, 9 = Vaishavite, 10 = Shaivite, 11 = Other Hindu, 12 = Sunni, 13 = Shiite, 14 = Other Muslim, 15 = Conservative Jewish, 16 = Reform Jewish, 17 = Orthodox Jewish, 18 = Other Jewish, 19 = Sikh, 20 = Bahai, 21 = Jain, 22 = Taoist, 23 = Confucian, 24 = Shinto, 25 = None, 26 = Atheist, 27 = Agnostic, 28 = Other"
+AFFILIATION,Coded current religious affiliation
+SBS1-6,"−4 = Strongly disagree, 0 = Neither agree nor disagree, 4 = Strongly agree "
+RELBEH1-5,"0 = Never, 8 = Very frequently"
+LOCUS1-6,"−4 = Strongly disagree, 0 = Neither agree nor disagree, 4 = Strongly agree "
+GOD1-14,"−4 = Strongly disagree, 0 = Neither agree nor disagree, 4 = Strongly agree "
+SWLS1-5,"−3 = Strongly disagree, 0 = Neither agree nor disagree, 3 = Strongly agree "
+DAQ1-15,"0 = Not at all, 8 = Very much"
+JONG1-12,"−4 = Strongly disagree, 0 = Neither agree nor disagree, 4 = Strongly agree "
+HONEST,"""Did you respond randomly or provide responses that were not true at any point during this study?""; 1 = Yes, 2 = No"
+COMMENTS,Open-ended response
+DROP1,"Pass/fail first attention check; 0 = pass, 1 = fail"
+DROP2,Pass repeat attention check; 0 = pass
+CHECK,"Pass/fail all checks; 0 = pass, 1 = fail"
+SBS,Average of SBS
+EDAS,Average of EDAS
+DAQ,Average of DAQ
